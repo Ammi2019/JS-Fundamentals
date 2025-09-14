@@ -1,5 +1,5 @@
 firstline = "C is fun"
-secondline = "python is cool"
+secondline = "Python is cool"
 thirdline = "Javascript is amazing"
 
 console.log(firstline);
